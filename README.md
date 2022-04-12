@@ -1,19 +1,14 @@
 ### 🌱 Learning CTF
-<br>
+
+I'm Younghun Kwon (a.k.a. kwon99)  
+> 
+- Instagram [@kyh_0312](https://www.instagram.com/kyh_0312)  
+- Whoami [@kwon99](https://kwon99.me/)
+- Blog [@을람헌](https://blog.kwon99.me/)
 
 ![status](https://github-readme-stats.vercel.app/api/?username=kwon99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<!--
-**kwon99/kwon99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Security
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 I'm at  
+|Kyonggi Univ.|K.knock|
+|:-:|:-:|
+|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625672-76ef3a21-60ab-4bd3-87f0-69bd07d3ff50.png">](http://www.kyonggi.ac.kr/KyonggiUp.kgu)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625577-e5c0f841-5f1b-404e-a744-c43a6aec5512.png">](https://kknock.org)|
