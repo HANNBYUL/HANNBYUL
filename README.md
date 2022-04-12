@@ -6,8 +6,6 @@ I'm Younghun Kwon (a.k.a. kwon99)
 - Whoami [@kwon99](https://kwon99.me/)
 - Blog [@을람헌](https://blog.kwon99.me/)
 
-![status](https://github-readme-stats.vercel.app/api/?username=kwon99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 📌 I'm at  
 |Kyonggi Univ.|K.knock|
 |:-:|:-:|
