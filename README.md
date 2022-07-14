@@ -1,10 +1,11 @@
-### 🌱 Learning Spring
 
-I'm Younghun Kwon (a.k.a. kwon99)  
-> 
-- Instagram [@kyh_0312](https://www.instagram.com/kyh_0312)  
-- Whoami [@kwon99](https://kwon99.me/)
-- Blog [@을람헌](https://blog.kwon99.me/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
+<div align="center">
+<a href="https://www.instagram.com/kyh_0312" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://kwon99.me/" target="_blank"><img src="https://img.shields.io/badge/WhoamI-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
+<a href="https://blog.kwon99.me/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</div>
 
 📌 I'm at  
 |Kyonggi Univ.|K.knock|
