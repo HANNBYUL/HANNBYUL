@@ -14,6 +14,6 @@
 
 
 ### 🛠 Tech Stack
-|Java|Javascript|Python|C|Spring|
-|:-:|:-:|:-:|:-:|:-:|
-|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/java.svg">](https://www.java.com/en/)|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/javascript.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)| [<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/python.svg">](https://www.python.org)|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/c.svg">](https://devdocs.io/c/)|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/spring.svg">](https://spring.io)|
+|Java|Javascript|Python|C|Spring|MySQL|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/java.svg">](https://www.java.com/en/)|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/javascript.svg">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)| [<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/python.svg">](https://www.python.org)|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/c.svg">](https://devdocs.io/c/)|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/spring.svg">](https://spring.io)|[<img width="80px" src="https://github.com/kwon99/kwon99/blob/main/assets/mysql.svg">](https://www.mysql.com)|
