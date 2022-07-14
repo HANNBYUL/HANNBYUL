@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=300&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <div align="center">
 <a href="http://facebook.com/100051172203191" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/kyh_0312" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
