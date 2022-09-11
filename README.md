@@ -3,8 +3,8 @@
 <div align="center">
 <a href="http://facebook.com/100051172203191" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/kyh_0312" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://kwon99.me/" target="_blank"><img src="https://img.shields.io/badge/WhoamI-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
-<a href="https://blog.kwon99.me/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://younghunkwon.notion.site/Younghun-Kwon-1ca1b9182fc84f598f26449f2a546fc6" target="_blank"><img src="https://img.shields.io/badge/WhoamI-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
+<a href="https://hamRET.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
 
 ### 📌 I'm at  
