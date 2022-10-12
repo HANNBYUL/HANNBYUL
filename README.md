@@ -1,4 +1,4 @@
 ```console
 xsfx@785f78:/$ whoami
-xsfx
+x_x, xsfx, x5fx, kwon99
 ```
