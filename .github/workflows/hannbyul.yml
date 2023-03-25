@@ -9,6 +9,8 @@ jobs:
   push:
     runs-on: ubuntu-latest
     steps:
+      - name: SetENV
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       - name: Checkout
         uses: actions/checkout@v2
       - name: Python 3.10
@@ -26,7 +28,9 @@ jobs:
         uses: EndBug/add-and-commit@v4.4.0
         with:
           add: "README.md"
-          message: $(date +'%Y-%m-%d')
+          message: "${DATE}"
+          author_name: "hannbyul"
+          author_email: "kyonggi@kakao.com"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
