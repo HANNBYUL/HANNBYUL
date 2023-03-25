@@ -24,12 +24,11 @@ jobs:
           python README.py
       - name: Add & Commit
         env:
-          COMMIT_MSG: |
-            "$(printf '%(%Y-%m-%d)T')"
+          TODAY: $(date +'%Y-%m-%d')
         uses: EndBug/add-and-commit@v4.4.0
         with:
           add: "README.md"
-          message: ${{ env.COMMIT_MSG }}
+          message: "${{ env.TODAY }}"
           author_name: "hannbyul"
           author_email: "kyonggi@kakao.com"
       - name: Push
