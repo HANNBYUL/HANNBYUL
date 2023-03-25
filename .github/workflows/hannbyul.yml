@@ -23,10 +23,13 @@ jobs:
         run: |
           python README.py
       - name: Add & Commit
+        env:
+          COMMIT_MSG: |
+            $(date +'%Y-%m-%d')
         uses: EndBug/add-and-commit@v4.4.0
         with:
           add: "README.md"
-          message: "$(date +'%Y-%m-%d')"
+          message: ${{ env.COMMIT_MSG }}
           author_name: "hannbyul"
           author_email: "kyonggi@kakao.com"
       - name: Push
