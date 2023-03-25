@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: SetDate
+        id: set-date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Python 3.10
         uses: actions/setup-python@v3
         with:
@@ -26,7 +29,7 @@ jobs:
         uses: EndBug/add-and-commit@v4.4.0
         with:
           add: "README.md"
-          message: "`date +'%Y-%m-%d'`"
+          message: "${{ steps.set-date.outputs.date }}"
           author_name: "hannbyul"
           author_email: "kyonggi@kakao.com"
       - name: Push
