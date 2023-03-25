@@ -26,7 +26,7 @@ jobs:
         uses: EndBug/add-and-commit@v4.4.0
         with:
           add: "README.md"
-          message: "$(date +'%Y-%m-%d')"
+          message: $(date +'%Y-%m-%d')
       - name: Push
         uses: ad-m/github-push-action@master
         with:
