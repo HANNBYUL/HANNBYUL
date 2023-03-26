@@ -24,9 +24,3 @@
 [kakao-shield]: https://img.shields.io/twitter/follow/han__byul?style=flat&logo=kakaotalk&color=%23FFCD00
 [docker-link]: https://hub.docker.com/u/hannbyul
 [docker-shield]: https://img.shields.io/twitter/follow/hannbyul?style=flat&logo=docker&color=%232496ED
-
-```diff
-+ [docker hub](https://hub.docker.com/u/hannbyul)
-+ [instagram](https://www.instagram.com/kyh_0312/)
-- [blog (will be renewal soon!)](https://HANNBYUL.github.io)
-```
