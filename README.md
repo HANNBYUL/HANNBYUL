@@ -11,7 +11,7 @@
 
 <!-- banner link -->
 
-[banner-image]: ./assets/banner.png
+[banner-image]: ./assets/profile-banner.png
 [banner-link]: https://www.github.com/hannbyul
 
 <!-- SNS -->
