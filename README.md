@@ -7,6 +7,8 @@
 [![kakao-shield]][kakao-link]
 [![docker-shield]][docker-link]
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hannbyul&theme=dark"/>
+
 </div>
 
 <!-- banner link -->
@@ -24,3 +26,6 @@
 [kakao-shield]: https://img.shields.io/twitter/follow/han__byul?style=flat&logo=kakaotalk&color=%23FFCD00
 [docker-link]: https://hub.docker.com/u/hannbyul
 [docker-shield]: https://img.shields.io/twitter/follow/hannbyul?style=flat&logo=docker&color=%232496ED
+
+<!-- github info -->
+[streak-stats]: https://github-readme-streak-stats.herokuapp.com/?user=hannbyul&theme=dark
