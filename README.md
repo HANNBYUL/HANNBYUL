@@ -7,7 +7,7 @@
 [![kakao-shield]][kakao-link]
 [![docker-shield]][docker-link]
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hannbyul&theme=dark"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hannbyul&theme=dark"/> -->
 
 </div>
 
