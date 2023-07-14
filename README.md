@@ -1,4 +1,4 @@
-[![banner-image]][banner-link]
+<!-- [![banner-image]][banner-link] -->
 
 <div align="center">
 
