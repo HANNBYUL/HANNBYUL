@@ -22,11 +22,15 @@
 
 ```diff
 + 2021.03 ~         | KGU Computer Science
+
 + 2021.03 ~         | K.knock
 - 2021.03 ~         | 12th generation
 - 2023.01 ~         | club president
+
 + 2023.01 ~ 2023.08 | ZI:EN Internship
+
 + 2023.07 ~ 2023.11 | Kyonggi GapYear
+
 + 2023.10 ~         | SSL 4th
 ```
 
@@ -114,8 +118,10 @@
 ```diff
 + 2022.08 | K.knock Web CTF 2022
 - STAFF
+
 + 2022.12 | KCTF 2022
 - STAFF
+
 + 2023.03 | Baobab CTF (KGU, KNPU, SU union CTF)
 - STAFF
 ```
