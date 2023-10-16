@@ -18,6 +18,18 @@
 
 </div>
 
+**🎓 Career**
+
+```diff
++ 2021.03 ~         | KGU Computer Science
++ 2021.03 ~         | K.knock
+- 2021.03 ~ | 12th generation
+- 2023.01 ~ | club president
++ 2023.01 ~ 2023.08 | ZI:EN Internship
++ 2023.07 ~ 2023.11 | Kyonggi GapYear
++ 2023.10 ~         | SSL 4th
+```
+
 **🚀 Project**
 
 ```diff
@@ -27,6 +39,8 @@
 
 + 2021.07 ~ 2021.08 | HANCOM x NACHO CAN communication fuzzer
 - 🏆 2nd (KGU SW mock company competition)
+
++ 2022.05 ~ 2022.12 | K.knock Study (Network, Web, Rev, Pwn)
 
 + 2022.03 ~ 2022.05 | Diagnostic tool for information exposure in chatbots
 - 🏆 1st (KGU BARUN Problem Solving)
@@ -57,7 +71,7 @@
 **🏆 Awards**
 
 ```diff
-+ 2021.08 | K.knock Web CTF
++ 2021.08 | K.knock Web CTF 2021
 - 🏆 2nd
 
 + 2021.12 | KCTF 2021
@@ -93,6 +107,17 @@
 
 + 2023.05.30 | 2023 K.knock Special Lecture
 - About Logical Bug
+```
+
+**✨ Operation**
+
+```diff
++ 2022.08 | K.knock Web CTF 2022
+- STAFF
++ 2022.12 | KCTF 2022
+- STAFF
++ 2023.03 | Baobab CTF (KGU, KNPU, SU union CTF)
+- STAFF
 ```
 
 <!-- banner link -->
