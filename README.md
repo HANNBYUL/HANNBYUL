@@ -23,8 +23,8 @@
 ```diff
 + 2021.03 ~         | KGU Computer Science
 + 2021.03 ~         | K.knock
-- 2021.03 ~ | 12th generation
-- 2023.01 ~ | club president
+- 2021.03 ~         | 12th generation
+- 2023.01 ~         | club president
 + 2023.01 ~ 2023.08 | ZI:EN Internship
 + 2023.07 ~ 2023.11 | Kyonggi GapYear
 + 2023.10 ~         | SSL 4th
