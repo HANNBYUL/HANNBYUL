@@ -60,7 +60,7 @@
 + 2021.08 | K.knock Web CTF
 - 🏆 2nd
 
-+ 2021.12 | K.knock Internal CTF
++ 2021.12 | KCTF 2021
 - 🏆 2nd
 
 + 2021.11 | KGU SW mock company competition
