@@ -18,7 +18,7 @@
 
 </div>
 
-✋ Speech
+**✋ Speech**
 
 ```diff
 + 2022.07.02 | 2022 RO:AD 2nd Internal Seminar
@@ -37,20 +37,20 @@
 🚀 Project
 
 ```diff
-+ 랜섬웨어 연구 및 지뢰찾기를 응용한 테스트 랜섬웨어 개발 (Ransomware Research) | 2018.06 ~ 2018.08
++ 2018.06 ~ 2018.08 | Ransomware research / Development of test ransomware using Minesweeper
 
-+ 디스코드 다용도 봇 muusic 개발 (Multipurpose discord bot) | 2021.01 ~ 2021.03
++ 2021.01 ~ 2021.03 | Multipurpose discord bot, muusic
 
-+ HANCOM x NACHO CAN 통신 퍼저 (CAN communication Fuzzer) | 2021.07 ~ 2021.08
-- KGU SW상상기업 우수상 (2nd)
++ 2021.07 ~ 2021.08 | HANCOM x NACHO CAN communication fuzzer
+- 🏆 2nd (KGU SW mock company competition)
 
-+ 인공지능 챗봇의 개인정보 노출 진단 도구 개발(Diagnostic tool for information exposure in Chatbots) | 2022.03 ~ 2022.05
-- KGU BARUN 최우수상 (1st)
++ 2022.03 ~ 2022.05 | Diagnostic tool for information exposure in chatbots
+- 🏆 1st (KGU BARUN)
 
-+ CTFd 기반 웹 공방전 설정 프로그램 개발 (CTFd based Web-based CTF plugin) | 2022.05 ~ 2022.08
++ 2022.05 ~ 2022.08 | CTFd plugin for Web-based CTF
 
-+ 에듀테크기업 대상 웹 취약점 분석 사업 (Web pentest for edtech companies) | 2023.01
-- 20개 이상 취약점 제보 (Report over 20 vulnerabilities)
++ 2023.01           | Web pentest for edtech companies
+- Report over 20 vulnerabilities
 
 + 바이너리 정적 분석 솔루션 연구 및 개발 (Static Binary Anaylsis tool) | 2023.01 ~ 2023.03
 - 다수의 업체와 PoC 진행 및 운영 중 (In production)
