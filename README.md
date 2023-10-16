@@ -49,25 +49,25 @@
 
 + 2022.05 ~ 2022.08 | CTFd plugin for Web-based CTF
 
-+ 2023.01           | Web pentest for edtech companies
++ 2023.01 ~ 2023.01 | Web pentest for edtech companies
 - Report over 20 vulnerabilities
 
-+ 바이너리 정적 분석 솔루션 연구 및 개발 (Static Binary Anaylsis tool) | 2023.01 ~ 2023.03
-- 다수의 업체와 PoC 진행 및 운영 중 (In production)
++ 2023.01 ~ 2023.03 | Static Binary Anaylsis tool (Zploit)
+- PoC / In production with multiple companies
 
-+ IoT 보안 취약점 점검 솔루션, Z-IoT (IoT ulnerability scanning solution) | 2023.03 ~ 2023.07
-- 다수의 업체와 PoC 진행 및 운영 중 (In production)
++ 2023.03 ~ 2023.07 | IoT vulnerability scanning solution (Z-IoT)
+- PoC / In production with multiple companies
 
-+ 에듀테크기업 대상 웹, 앱 취약점 분석 사업 (Web, App pentest for edtech companies) | 2023.07 ~ 2023.08
-- 10개 이상 취약점 제보 (Report over 10 vulnerabilities)
++ 2023.07 ~ 2023.08 | Web, Application pentest for edtech companies
+- Report over 10 vulnerabilities
 
-+ KEA 주관 타겟 회사 IoT 보안 점검 (IoT pentest for KEA target companies) | 2023.08 ~
-- 10개 이상 기업의 취약점 제보 (Report for over 10 companies)
++ 2023.07 ~ 2023.08 | Firmware Encryption Solution
+- Successed in multiple test boards
 
-+ 펌웨어 암호화 솔루션 연구 (Firmware Encryption) | 2023.07 ~ 2023.08
-- 여러 테스트보드에 대한 암호화 성공 (Successed in multiple test boards)
++ 2023.06 ~ 2023.08 | SBOM for Firmware (ZBOM)
 
-+ 펌웨어 SBOM 솔루션 (SBOM for Firmware) | 2023.06 ~ 2023.08
++ 2023.08 ~ 2023.10 | IoT pentest for KEA target companies
+- Report for over 10 companies
 ```
 
 <!-- banner link -->
