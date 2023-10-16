@@ -18,23 +18,7 @@
 
 </div>
 
-**✋ Speech**
-
-```diff
-+ 2022.07.02 | 2022 RO:AD 2nd Internal Seminar
-- Security vulnerabilities of drones (About Jamming)
-
-+ 2022.11.13 | 2022 CCA Seminar for Newbies
-- Keeping it HIP while looking at the HEAP
-
-+ 2022.10.08 | 2022 K.knock Internal Seminar
-- Review of developing & operating a web-based CTF
-
-+ 2023.05.30 | 2023 K.knock Special Lecture
-- About Logical Bug
-```
-
-🚀 Project
+**🚀 Project**
 
 ```diff
 + 2018.06 ~ 2018.08 | Ransomware research / Development of test ransomware using Minesweeper
@@ -45,7 +29,7 @@
 - 🏆 2nd (KGU SW mock company competition)
 
 + 2022.03 ~ 2022.05 | Diagnostic tool for information exposure in chatbots
-- 🏆 1st (KGU BARUN)
+- 🏆 1st (KGU BARUN Problem Solving)
 
 + 2022.05 ~ 2022.08 | CTFd plugin for Web-based CTF
 
@@ -68,6 +52,42 @@
 
 + 2023.08 ~ 2023.10 | IoT pentest for KEA target companies
 - Report for over 10 companies
+```
+
+**🏆 Awards**
+
+```diff
++ 2021.08 | K.knock Web CTF
+- 🏆 2nd
++ 2021.12 | K.knock Internal CTF
+- 🏆 2nd
++ 2021.11 | KGU SW mock company competition
+- 🏆 2nd
++ 2022.05 | BARUN Problem Solving
+- 🏆 1st
++ 2023.09 | CODEGATE 2023
+- 🏆 Finals
++ 2023.08 | HSpace CTF
+- 🏆 Finals
++ 2023.09 | Cyber Security Challenge
+- 🏆 4th
++
+```
+
+**✋ Speech**
+
+```diff
++ 2022.07.02 | 2022 RO:AD 2nd Internal Seminar
+- Security vulnerabilities of drones (About Jamming)
+
++ 2022.11.13 | 2022 CCA Seminar for Newbies
+- Keeping it HIP while looking at the HEAP
+
++ 2022.10.08 | 2022 K.knock Internal Seminar
+- Review of developing & operating a web-based CTF
+
++ 2023.05.30 | 2023 K.knock Special Lecture
+- About Logical Bug
 ```
 
 <!-- banner link -->
