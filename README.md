@@ -21,14 +21,17 @@
 ✋ Speech
 
 ```diff
-+ 2022 RO:AD 2nd Internal Seminar | 2022.07.02
-- 드론의 보안 취약점 with Jamming (Security vulnerabilities of drones)
-+ 2022 CCA Seminar for Newbies | 2022.11.13
-- 힙하지만 BASIC하게 HEAP 살펴보기 (Hip, Heap)
-+ 2022 K.knock Internal Seminar | 2022.10.08
-- 웹 공방전 CTF 직접 개발 및 운영한 후기 (Review of develop & operate a web-based CTF)
-+ 2023 K.knock Special Lecture | 2023.05.30
-- Logical Bug
++ 2022.07.02 | 2022 RO:AD 2nd Internal Seminar
+- Security vulnerabilities of drones (About Jamming)
+
++ 2022.11.13 | 2022 CCA Seminar for Newbies
+- Keeping it HIP while looking at the HEAP
+
++ 2022.10.08 | 2022 K.knock Internal Seminar
+- Review of developing & operating a web-based CTF
+
++ 2023.05.30 | 2023 K.knock Special Lecture
+- About Logical Bug
 ```
 
 🚀 Project
