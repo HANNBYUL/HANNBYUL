@@ -95,6 +95,7 @@
 
 + 2023.09 | Cyber Security Challenge
 - 🏆 4th
+- 🎖️ IITP Director Award (정보통신기획평가원장상)
 ```
 
 **✋ Speech**
