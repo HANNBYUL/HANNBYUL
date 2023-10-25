@@ -87,14 +87,18 @@
 + 2022.05 | BARUN Problem Solving
 - 🏆 1st
 
-+ 2023.09 | CODEGATE 2023
++ 2023.08 | HSpace CTF
 - 🏆 Finals
 
-+ 2023.08 | HSpace CTF
++ 2023.09 | CODEGATE 2023
 - 🏆 Finals
 
 + 2023.09 | Cyber Security Challenge
 - 🏆 4th
+- 🎖️ IITP Director Award (정보통신기획평가원장상)
+
++ 2023.10 | ICT Internship
+- 🏆 2nd
 - 🎖️ IITP Director Award (정보통신기획평가원장상)
 ```
 
