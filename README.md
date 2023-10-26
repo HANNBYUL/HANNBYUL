@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img align="center" src="https://i.giphy.com/OSOOHw7N9gb3R06OU7.gif" width="200">
+<img align="center" src="assets/profile.gif" width="200">
 
 <br>
 
