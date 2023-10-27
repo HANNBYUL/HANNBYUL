@@ -129,6 +129,9 @@
 
 + 2023.03 | Baobab CTF (KGU, KNPU, SU union CTF)
 - STAFF
+
++ 2023.10 | The Hacking Championship Junior 2023
+- STAFF
 ```
 
 <!-- banner link -->
