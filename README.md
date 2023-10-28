@@ -132,6 +132,9 @@
 
 + 2023.10 | The Hacking Championship Junior 2023
 - STAFF
+
++ 2023.10 | KERIS 2023
+- STAFF
 ```
 
 <!-- banner link -->
