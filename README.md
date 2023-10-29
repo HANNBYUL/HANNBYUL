@@ -121,7 +121,7 @@
 **✨ Operation**
 
 ```diff
-+ 2022.08 | K.knock Web CTF 2022
++ 2022.08 / 2023.08 | K.knock Web CTF 2022 / K.knock Web CTF 2023
 - STAFF
 
 + 2022.12 | KCTF 2022
