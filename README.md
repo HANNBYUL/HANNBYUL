@@ -116,6 +116,9 @@
 
 + 2023.05.30 | 2023 K.knock Special Lecture
 - About Logical Bug
+
++ 2023.11.18 | 2023 BaoBoB Seminar (KGU, KNPU, SU union seminar)
+- Tips for (Semi)Automation Anaylsis plugin/tool develop
 ```
 
 **✨ Operation**
