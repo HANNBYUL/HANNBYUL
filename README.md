@@ -25,13 +25,13 @@
 
 + 2021.03 ~         | K.knock
 - 2021.03 ~         | 12th generation
-- 2023.01 ~         | club president
+- 2023.01 ~ 2024.01 | club president
 
 + 2023.01 ~ 2023.08 | ZI:EN Internship
 
 + 2023.07 ~ 2023.11 | Kyonggi GapYear
 
-+ 2023.10 ~         | SSL 4th
++ 2023.10 ~         | Stealien SSL 4th
 ```
 
 **🚀 Project**
@@ -137,6 +137,9 @@
 - STAFF
 
 + 2023.10 | KERIS 2023
+- STAFF
+
++ 2023.12 | KGU x K.knock KCTF 2023
 - STAFF
 ```
 
