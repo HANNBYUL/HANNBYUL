@@ -100,6 +100,9 @@
 + 2023.10 | ICT Internship
 - 🏆 2nd
 - 🎖️ IITP Director Award (정보통신기획평가원장상)
+
++ 2024.06 | Hackthoen Sejong 2024
+- 🏆 Finals
 ```
 
 **✋ Speech**
