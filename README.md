@@ -32,6 +32,8 @@
 + 2023.07 ~ 2023.11 | Kyonggi GapYear
 
 + 2023.10 ~ 2024.02 | Stealien SSL 4th
+
++ 2024.06 ~ ing     | Best of the Best 13th
 ```
 
 **🚀 Project**
