@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img align="center" src="assets/profile.gif" width="200">
+<img align="center" src="assets/ori.gif" width="200">
 
 <!-- banner link -->
 
